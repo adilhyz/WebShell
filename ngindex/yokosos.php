@@ -1,4 +1,4 @@
-<title>Hacked by SanRei</title>
+<title>Hacked by Sanrei</title>
 <link rel="icon" href="https://k.top4top.io/p_2695dkaez1.jpg">
 <meta name="description" content="Yohohoho Wuzz Here">
 <meta name="author" content="Yoi Shotto">
