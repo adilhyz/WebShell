@@ -2,127 +2,103 @@
 
 ![hudaw](https://adilhyz.github.io/WebShell/screenshot.png)
 
+A shell backdoor that could be useful for specific needs.
 
-Shell Backdoor, could be useful for the needs of
+This is for **learning purposes only**. I am not responsible for any misuse.
 
-This is just for ```learning``` purpose only, I am not responsible if there is any mess
-
-Author: [Adilhyz](https://adilhyz.github.io)
+**Author:** [Adilhyz](https://adilhyz.github.io)
 
 ## **Category ⛱**
 
 <details open>
-<summary><b>🔐 Safety Backdoor :</b></summary>
+  <summary><b>🔐 Safety Backdoor :</b></summary>
 
-> <h3 align="center">3rei <code>Priv8</code> Shell</h3>
->
-> [![3rei show](https://adilhyz.github.io/WebShell/preview/3rei_view.webp)](https://adilhyz.github.io/WebShell/preview/3rei_view.webp)
->
-> > 20kb
-> > 
-> > Version: 1.0.1
-> >
-> > Pass: mangsut#123
-> > > > [```Download```](https://adilhyz.github.io/WebShell/PHP/3rei.php) &nbsp; [```Raw```](https://raw.githubusercontent.com/adilhyz/WebShell/master/PHP/3rei.php)
-> ----
+### 3rei `Priv8` Shell
 
-> <h3 align="center"><code>407</code> Authentic Exploit Shell</h3>
->
-> [![407 show](https://adilhyz.github.io/WebShell/preview/407_view.webp)](https://adilhyz.github.io/WebShell/preview/407_view.webp)
->
-> > 94kb
-> >
-> > Version: 2.0
-> >
-> > Pass: myshell
-> > > > [```Download```](https://adilhyz.github.io/WebShell/PHP/407.php) &nbsp; [```Raw```](https://raw.githubusercontent.com/adilhyz/WebShell/master/PHP/407.php)
-> ----
+[![3rei show](https://adilhyz.github.io/WebShell/preview/3rei_view.webp)](https://adilhyz.github.io/WebShell/preview/3rei_view.webp)
 
-> <h3 align="center"><code>B374K</code> Shell</h3>
->
-> [![b374k show](https://adilhyz.github.io/WebShell/preview/b374k_view.webp)](https://adilhyz.github.io/WebShell/preview/b374k_view.webp)
->
-> > 115kb
-> >
-> > Version: -
-> >
-> > Pass: b374k
-> > > > [```Download```](https://adilhyz.github.io/WebShell/PHP/407.php) &nbsp; [```Raw```](https://raw.githubusercontent.com/adilhyz/WebShell/master/PHP/b374k.php)
-> ----
+- **Size:** 20kb
+- **Version:** 1.0.1
+- **Password:** mangsut#123
+- [**Download**](https://adilhyz.github.io/WebShell/PHP/3rei.php) | [**Raw**](https://raw.githubusercontent.com/adilhyz/WebShell/master/PHP/3rei.php)
 
-> <h3 align="center"><code>B374K</code> White Shell</h3>
->
-> [![b373 show](https://adilhyz.github.io/WebShell/preview/b373_view.webp)](https://adilhyz.github.io/WebShell/preview/b373_view.webp)
->
-> > 223kb
-> >
-> > Version: 3.2.3
-> >
-> > Pass: b374k
-> > > > [```Download```](https://adilhyz.github.io/WebShell/PHP/407.php) &nbsp; [```Raw```](https://raw.githubusercontent.com/adilhyz/WebShell/master/PHP/b374k.php)
-> ----
+### `407` Authentic Exploit Shell
 
-</details>
+[![407 show](https://adilhyz.github.io/WebShell/preview/407_view.webp)](https://adilhyz.github.io/WebShell/preview/407_view.webp)
 
+- **Size:** 94kb
+- **Version:** 2.0
+- **Password:** myshell
+- [**Download**](https://adilhyz.github.io/WebShell/PHP/407.php) | [**Raw**](https://raw.githubusercontent.com/adilhyz/WebShell/master/PHP/407.php)
 
+### `B374K` Shell
 
+[![b374k show](https://adilhyz.github.io/WebShell/preview/b374k_view.webp)](https://adilhyz.github.io/WebShell/preview/b374k_view.webp)
 
-<!-- > |---|---|---|
-> |   |  Mass Deface    | ✅   |
-> |   |  Cpanel Crack  | ✅ |
-> |PHP / ZIP|Bypassed | ❌ | -->
+- **Size:** 115kb
+- **Version:** -
+- **Password:** b374k
+- [**Download**](https://adilhyz.github.io/WebShell/PHP/407.php) | [**Raw**](https://raw.githubusercontent.com/adilhyz/WebShell/master/PHP/b374k.php)
 
-<details>
-<summary><b>📁 File Manager :</b></summary>
+### `B374K` White Shell
 
-> RC Shell|
-> |---|
-> |[![407 show](https://adilhyz.github.io/WebShell/preview/4RC_show.webp)](https://adilhyz.github.io/WebShell/preview/4RC_view.webp)|
-> - 20kb
-> - Version: 3.0
-> - Pass: -
-> > > > [```Download```](https://adilhyz.github.io/WebShell/PHP/4RC.php) &nbsp; [```Raw```](https://raw.githubusercontent.com/adilhyz/WebShell/master/PHP/4RC.php)
-> ----
+[![b373 show](https://adilhyz.github.io/WebShell/preview/b373_view.webp)](https://adilhyz.github.io/WebShell/preview/b373_view.webp)
+
+- **Size:** 223kb
+- **Version:** 3.2.3
+- **Password:** b374k
+- [**Download**](https://adilhyz.github.io/WebShell/PHP/407.php) | [**Raw**](https://raw.githubusercontent.com/adilhyz/WebShell/master/PHP/b374k.php)
 
 </details>
 
 <details>
-<summary><b>🌸 Simply Backdoor :</b></summary>
+  <summary><b>📁 File Manager :</b></summary>
 
-> [![Deforce Army show](https://adilhyz.github.io/WebShell/preview/ad_view.webp)](https://adilhyz.github.io/WebShell/preview/4RC_show.webp)
-> <h3 align="center">DEFORCE ARMY Shell</h3>
-> 
-> - > 24kb
-> - > Version: -
-> - > Pass: -
-> - >  [```Download```](https://adilhyz.github.io/WebShell/PHP/ad.php) &nbsp; [```Raw```](https://raw.githubusercontent.com/adilhyz/WebShell/master/PHP/ad.php)
-> ------
+### RC Shell
 
+[![407 show](https://adilhyz.github.io/WebShell/preview/4RC_show.webp)](https://adilhyz.github.io/WebShell/preview/4RC_view.webp)
+
+- **Size:** 20kb
+- **Version:** 3.0
+- **Password:** -
+- [**Download**](https://adilhyz.github.io/WebShell/PHP/4RC.php) | [**Raw**](https://raw.githubusercontent.com/adilhyz/WebShell/master/PHP/4RC.php)
 
 </details>
 
+<details>
+  <summary><b>🌸 Simply Backdoor :</b></summary>
+
+### DEFORCE ARMY Shell
+
+[![Deforce Army show](https://adilhyz.github.io/WebShell/preview/ad_view.webp)](https://adilhyz.github.io/WebShell/preview/4RC_show.webp)
+
+- **Size:** 24kb
+- **Version:** -
+- **Password:** -
+- [**Download**](https://adilhyz.github.io/WebShell/PHP/ad.php) | [**Raw**](https://raw.githubusercontent.com/adilhyz/WebShell/master/PHP/ad.php)
+
+</details>
 
 <details>
-<summary><b>🎴 Fully Backdoor :</b></summary>
+  <summary><b>🎴 Fully Backdoor :</b></summary>
 
+### Ayanami Shell
 
-> ------
-> [![Ayanami show](https://adilhyz.github.io/WebShell/preview/ayanami_view.webp)](https://adilhyz.github.io/WebShell/preview/ayanami_view.webp)
-> <h3 align="center">Ayanami Shell</h3>
-> 
-> - > 38kb
-> - > Version: -
-> - > Pass: -
-> - >  [```Download```](https://adilhyz.github.io/WebShell/PHP/ayanami.php) &nbsp; [```Raw```](https://raw.githubusercontent.com/adilhyz/WebShell/master/PHP/ayanami.php)
+[![Ayanami show](https://adilhyz.github.io/WebShell/preview/ayanami_view.webp)](https://adilhyz.github.io/WebShell/preview/ayanami_view.webp)
 
-> ------
-> [![b374k mini show](https://adilhyz.github.io/WebShell/preview/b374k_mini_view.webp)](https://adilhyz.github.io/WebShell/preview/b374k_mini.webp)
-> <h3 align="center"><code>B374K</code> Mini Shell</h3>
-> 
-> - > 14kb
-> - > Version: -
-> - > Pass: -
-> - >  [```Download```](https://adilhyz.github.io/WebShell/PHP/b374km.php) &nbsp; [```Raw```](https://raw.githubusercontent.com/adilhyz/WebShell/master/PHP/b374km.php)
+- **Size:** 38kb
+- **Version:** -
+- **Password:** -
+- [**Download**](https://adilhyz.github.io/WebShell/PHP/ayanami.php) | [**Raw**](https://raw.githubusercontent.com/adilhyz/WebShell/master/PHP/ayanami.php)
+
+### `B374K` Mini Shell
+
+[![b374k mini show](https://adilhyz.github.io/WebShell/preview/b374k_mini_view.webp)](https://adilhyz.github.io/WebShell/preview/b374k_mini.webp)
+
+- **Size:** 14kb
+- **Version:** -
+- **Password:** -
+- [**Download**](https://adilhyz.github.io/WebShell/PHP/b374km.php) | [**Raw**](https://raw.githubusercontent.com/adilhyz/WebShell/master/PHP/b374km.php)
 
 </details>
 
