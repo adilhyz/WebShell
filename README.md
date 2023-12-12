@@ -1,6 +1,6 @@
 # [WebShell](https://adilhyz.github.io/WebShell)
 
-![hudaw](./screenshot.png)
+![hudaw](https://adilhyz.github.io/WebShell/screenshot.png)
 
 
 Shell Backdoor, could be useful for the needs of
@@ -16,7 +16,7 @@ Author: [Adilhyz](https://adilhyz.github.io)
 
 > <h3 align="center">3rei <code>Priv8</code> Shell</h3>
 >
-> [![3rei show](./preview/3rei_view.webp)](https://adilhyz.github.io/WebShell/preview/3rei_view.webp)
+> [![3rei show](https://adilhyz.github.io/WebShell/preview/3rei_view.webp)](https://adilhyz.github.io/WebShell/preview/3rei_view.webp)
 >
 > > 20kb
 > > 
@@ -28,7 +28,7 @@ Author: [Adilhyz](https://adilhyz.github.io)
 
 > <h3 align="center"><code>407</code> Authentic Exploit Shell</h3>
 >
-> [![407 show](./preview/407_view.webp)](https://adilhyz.github.io/WebShell/preview/407_view.webp)
+> [![407 show](https://adilhyz.github.io/WebShell/preview/407_view.webp)](https://adilhyz.github.io/WebShell/preview/407_view.webp)
 >
 > > 94kb
 > >
@@ -40,7 +40,7 @@ Author: [Adilhyz](https://adilhyz.github.io)
 
 > <h3 align="center"><code>B374K</code> Shell</h3>
 >
-> [![b374k show](./preview/b374k_view.webp)](https://adilhyz.github.io/WebShell/preview/b374k_view.webp)
+> [![b374k show](https://adilhyz.github.io/WebShell/preview/b374k_view.webp)](https://adilhyz.github.io/WebShell/preview/b374k_view.webp)
 >
 > > 115kb
 > >
@@ -52,7 +52,7 @@ Author: [Adilhyz](https://adilhyz.github.io)
 
 > <h3 align="center"><code>B374K</code> White Shell</h3>
 >
-> [![b373 show](./preview/b373_view.webp)](https://adilhyz.github.io/WebShell/preview/b373_view.webp)
+> [![b373 show](https://adilhyz.github.io/WebShell/preview/b373_view.webp)](https://adilhyz.github.io/WebShell/preview/b373_view.webp)
 >
 > > 223kb
 > >
@@ -77,7 +77,7 @@ Author: [Adilhyz](https://adilhyz.github.io)
 
 > RC Shell|
 > |---|
-> |[![407 show](./preview/4RC_show.webp)](https://adilhyz.github.io/WebShell/preview/4RC_view.webp)|
+> |[![407 show](https://adilhyz.github.io/WebShell/preview/4RC_show.webp)](https://adilhyz.github.io/WebShell/preview/4RC_view.webp)|
 > - 20kb
 > - Version: 3.0
 > - Pass: -
@@ -89,7 +89,7 @@ Author: [Adilhyz](https://adilhyz.github.io)
 <details>
 <summary><b>🌸 Simply Backdoor :</b></summary>
 
-> [![Deforce Army show](./preview/ad_view.webp)](https://adilhyz.github.io/WebShell/preview/4RC_show.webp)
+> [![Deforce Army show](https://adilhyz.github.io/WebShell/preview/ad_view.webp)](https://adilhyz.github.io/WebShell/preview/4RC_show.webp)
 > <h3 align="center">DEFORCE ARMY Shell</h3>
 > 
 > - > 24kb
@@ -107,7 +107,7 @@ Author: [Adilhyz](https://adilhyz.github.io)
 
 
 > ------
-> [![Ayanami show](./preview/ayanami_view.webp)](https://adilhyz.github.io/WebShell/preview/ayanami_view.webp)
+> [![Ayanami show](https://adilhyz.github.io/WebShell/preview/ayanami_view.webp)](https://adilhyz.github.io/WebShell/preview/ayanami_view.webp)
 > <h3 align="center">Ayanami Shell</h3>
 > 
 > - > 38kb
@@ -116,7 +116,7 @@ Author: [Adilhyz](https://adilhyz.github.io)
 > - >  [```Download```](https://adilhyz.github.io/WebShell/PHP/ayanami.php) &nbsp; [```Raw```](https://raw.githubusercontent.com/adilhyz/WebShell/master/PHP/ayanami.php)
 
 > ------
-> [![b374k mini show](./preview/b374k_mini_view.webp)](https://adilhyz.github.io/WebShell/preview/b374k_mini.webp)
+> [![b374k mini show](https://adilhyz.github.io/WebShell/preview/b374k_mini_view.webp)](https://adilhyz.github.io/WebShell/preview/b374k_mini.webp)
 > <h3 align="center"><code>B374K</code> Mini Shell</h3>
 > 
 > - > 14kb
