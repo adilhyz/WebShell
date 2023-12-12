@@ -54,7 +54,7 @@ border-radius:5px;
 </head>
 <body>
 <br>
-<center><img src="https://b.top4top.io/p_2662v9yrh1.png" width="300px" height="300px"></center>
+<center><img src="https://kosred.com/a/wfnrnx.png" width="300px" height="300px"></center>
 <h2><center><font color="#F504F7"><\>SanRei Ayanami<\></font></center></h2>
 <table width="900" border="0" cellpadding="3" cellspacing="1" align="center">
 <tr><td><font color="#fff">Path :</font> ';

