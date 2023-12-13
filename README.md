@@ -50,7 +50,7 @@ Author: [Adilhyz](https://adilhyz.github.io)
 
 ### RC Shell
 
-[![4RC show](https://adilhyz.github.io/WebShell/preview/4RC_show.webp)](https://adilhyz.github.io/WebShell/preview/4RC_view.webp)
+[![4RC show](https://adilhyz.github.io/WebShell/preview/4RC_view.webp)](https://adilhyz.github.io/WebShell/preview/4RC_view.webp)
 
 - **Size:** 20kb
 - **Version:** 3.0
@@ -61,7 +61,7 @@ Author: [Adilhyz](https://adilhyz.github.io)
 
 ### DEFORCE ARMY Shell
 
-[![Deforce Army show](https://adilhyz.github.io/WebShell/preview/ad_view.webp)](https://adilhyz.github.io/WebShell/preview/4RC_show.webp)
+[![Deforce Army show](https://adilhyz.github.io/WebShell/preview/ad_view.webp)](https://adilhyz.github.io/WebShell/preview/ad_view.webp)
 
 - **Size:** 24kb
 - **Version:** -
