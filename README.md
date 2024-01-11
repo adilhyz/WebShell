@@ -105,10 +105,10 @@ Author: [Adilhyz](https://adilhyz.github.io)
 
 - **Size:** 446kb
 - **Version:** 4.1
-- **User/Password:** admin/ehsan
+- **Password:** -
 - [**Download**](https://adilhyz.github.io/WebShell/PHP/alf4L.php) | [**Raw**](https://raw.githubusercontent.com/adilhyz/WebShell/master/PHP/alf4L.php)
 
-### ```Alfa``` Remastered Shell 
+### ```Alfa``` Shell  Remastered
 
 [![Alfar show](https://adilhyz.github.io/WebShell/preview/alf4r_view.webp)](https://adilhyz.github.io/WebShell/preview/alf4r_view.webp)
 
@@ -119,7 +119,7 @@ Author: [Adilhyz](https://adilhyz.github.io)
 
 ### `B374K` Mini Shell
 
-[![b374k mini show](https://adilhyz.github.io/WebShell/preview/b374k_mini_view.webp)](https://adilhyz.github.io/WebShell/preview/b374k_mini.webp)
+[![b374k mini show](https://adilhyz.github.io/WebShell/preview/b374km_view.webp)](https://adilhyz.github.io/WebShell/preview/b374km_view.webp   )
 
 - **Size:** 14kb
 - **Version:** -
@@ -130,7 +130,7 @@ Author: [Adilhyz](https://adilhyz.github.io)
 
 ### ```Negat1ve``` Bypass Shell
 
-[![Ayanami show](https://adilhyz.github.io/WebShell/preview/3n3_view.webp)](https://adilhyz.github.io/WebShell/preview/3n3_view.webp)
+[![Negat1ve show](https://adilhyz.github.io/WebShell/preview/3n3_view.webp)](https://adilhyz.github.io/WebShell/preview/3n3_view.webp)
 
 - **Size:** 21kb
 - **Version:** -
