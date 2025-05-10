@@ -67,9 +67,9 @@ Author: [Adilhyz](https://adilhyz.github.io)
   }
 
   .shell-card .info .size {
-    font-size: 1rem;
-    font-weight: bold
-    color: #636c72 !important;
+    font-size: 14px;
+    font-weight: bold;
+    color: #636c72 ;
   }
 
   .shell-card a {
