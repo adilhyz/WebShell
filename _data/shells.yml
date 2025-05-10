@@ -1,4 +1,4 @@
-- name: 3rei `Priv8` Shell
+- name: "3rei `Priv8` Shell"
   image: "https://adilhyz.github.io/WebShell/preview/3rei_view.webp"
   size: "20kb"
   password: "mangsut#123"
@@ -6,7 +6,7 @@
   download: "https://adilhyz.github.io/WebShell/PHP/me/3rei.php"
   raw: "https://raw.githubusercontent.com/adilhyz/WebShell/master/PHP/me/3rei.php"
 
-- name: `407` Authentic Exploit Shell
+- name: "407 Authentic Exploit Shell"
   image: "https://adilhyz.github.io/WebShell/preview/407_view.webp"
   size: "94kb"
   password: "myshell"
