@@ -97,7 +97,7 @@ Author: [Adilhyz](https://adilhyz.github.io)
 
 
 
-## Mini Backd00r
+ini category: ## Mini Backd00r
 
 ### DEFORCE ARMY Shell
 
@@ -106,7 +106,7 @@ Author: [Adilhyz](https://adilhyz.github.io)
 - **Size:** 24kb
 - **Version:** -
 - **Password:** -
-- [**Download**](https://adilhyz.github.io/WebShell/PHP/ad.php) | [**Raw**](https://github.com/adilhyz/WebShell/blob/master/PHP/ad.php)
+- [**Download**](https://adilhyz.github.io/WebShell/PHP/mini/ad.php) | [**Raw**](https://github.com/adilhyz/WebShell/blob/master/PHP/mini/ad.php)
 
 ### `B374K` Mini Shell
 
@@ -192,7 +192,7 @@ Author: [Adilhyz](https://adilhyz.github.io)
 - **Password:** -
 - [**Download**](https://adilhyz.github.io/WebShell/PHP/mini/xsec.php) | [**Raw**](https://github.com/adilhyz/WebShell/blob/master/PHP/mini/xsec.php)
 
-## Fully Backd00r
+ini category: ## Fully Backd00r
 
 ### Ayanami Shell
 
@@ -230,7 +230,7 @@ Author: [Adilhyz](https://adilhyz.github.io)
 - **Password:** -
 - [**Download**](https://adilhyz.github.io/WebShell/PHP/mini/ribel.php) | [**Raw**](https://github.com/adilhyz/WebShell/blob/master/PHP/mini/ribel.php)
 
-## Bypass Backd00r
+ini category: ## Bypass Backd00r
 
 ### ```Negat1ve``` Bypass Shell
 
