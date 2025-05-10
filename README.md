@@ -241,6 +241,25 @@ Author: [Adilhyz](https://adilhyz.github.io)
 - **Password:** -
 - [**Download**](https://adilhyz.github.io/WebShell/PHP/403/3n3.php) | [**Raw**](https://raw.githubusercontent.com/adilhyz/WebShell/master/PHP/403/3n3.php)
 
+### Cloudflare Bypass Shell
+
+[![Cloudflare show](https://adilhyz.github.io/WebShell/preview/cloudflare.webp)](https://adilhyz.github.io/WebShell/preview/cloudflare.webp)
+
+- **Size:** 11kb
+- **Version:** -
+- **Password:** -
+- [**Download**](https://adilhyz.github.io/WebShell/PHP/403/cloudflare.php) | [**Raw**](https://raw.githubusercontent.com/adilhyz/WebShell/master/PHP/403/cloudflare.php)
+
+### Privdayz Bypass Shell
+
+[![Ant1 show](https://adilhyz.github.io/WebShell/preview/ant1.webp)](https://adilhyz.github.io/WebShell/preview/ant1.webp)
+
+- **Size:** 6kb
+- **Version:** -
+- **Password:** -
+- [**Download**](https://adilhyz.github.io/WebShell/PHP/403/ant1.php) | [**Raw**](https://raw.githubusercontent.com/adilhyz/WebShell/master/PHP/403/ant1.php)
+
+
 ### Sigunq Bypass Shell
 
 [![Sigunq show](https://adilhyz.github.io/WebShell/preview/sigunq.webp)](https://adilhyz.github.io/WebShell/preview/sigunq.webp)
