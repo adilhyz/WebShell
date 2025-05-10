@@ -1,9 +1,9 @@
 ---
 layout: default
-#title: WebShell
+title: WebShell
 ---
 
-# [WebShell](https://adilhyz.github.io/WebShell)
+<!-- # [WebShell](https://adilhyz.github.io/WebShell) -->
 
 ![hudaw](https://adilhyz.github.io/WebShell/screenshot.png)
 
@@ -20,10 +20,6 @@ Author: [Adilhyz](https://adilhyz.github.io)
 [ Mini Backd00r ](#mini-backd00r)&ensp;
 [ Fully Backd00r ](#fully-backd00r)&ensp;
 [ Bypass Backd00r ](#bypass-backd00r)&ensp;
-
-<br><br><br>
-
-## Safety Backd00r
 
 <style>
   .shell-container {
@@ -54,6 +50,9 @@ Author: [Adilhyz](https://adilhyz.github.io)
   .shell-card img {
     width: 100%;
     height: auto;
+    object-fit: cover; /* Atau contain tergantung kebutuhan */
+    cursor: -webkit-zoom-in; 
+    cursor: zoom-in;
   }
 
   .shell-card h2 {
@@ -62,9 +61,15 @@ Author: [Adilhyz](https://adilhyz.github.io)
   }
 
   .shell-card .info {
-    padding: 0 10px 10px 10px;
+    padding: 0 100px 10px 10px;
     font-size: 14px;
     color: #ccc;
+  }
+
+  .shell-card .info .size {
+    font-size: 1rem;
+    font-weight: bold
+    color: #636c72 !important;
   }
 
   .shell-card a {
@@ -79,29 +84,38 @@ Author: [Adilhyz](https://adilhyz.github.io)
   text-decoration: underline;
 }
 
+@media (max-width: 480px) {
+  .shell-container {
+    grid-template-columns: 1fr;
+  }
+}
+
 @media (max-width: 768px) {
-  .grid {
+  .shell-container {
     grid-template-columns: 1fr;
   }
 }
 
 </style>
 
-<div class="shell-container">
-  {% for shell in site.data.shells %}
-  <div class="shell-card">
-    <img src="{{ shell.image }}" alt="{{ shell.name }}">
-    <h2>{{ shell.name }}</h2>
-    <div class="info">
-      <p>Size: {{ shell.size }}</p>
-      <p>Version: {{ shell.version }}</p>
-      {% if forloop.first %}
-      <p>User/Password: {{ shell.password }}</p>
-      {% endif %}
-      <p>Password: {{ shell.password }}</p>
-    </div>
-    <a href="{{ shell.download }}">Download</a>
-    <a href="{{ shell.raw }}">Raw &gt;</a>
+
+{% assign grouped_shells = site.data.shells | group_by: "category" %}
+{% for group in grouped_shells %}
+  <h2>{{ group.name }}</h2>
+  <div class="shell-container">
+    {% for shell in group.items %}
+      <div class="shell-card">
+        <a href="{{ shell.image }}"><img src="{{ shell.image }}" alt="{{ shell.name }}"></a>
+        <h2>{{ shell.name }}</h2>
+        <div class="info">
+          <p class="size">Size: {{ shell.size }}</p>
+          <p>Version: {{ shell.version }}</p>
+          <p>Password: {{ shell.password }}</p>
+        </div>
+        <a href="{{ shell.download }}">Download</a>
+        <a href="{{ shell.raw }}">Raw &gt;</a>
+      </div>
+    {% endfor %}
   </div>
-  {% endfor %}
-</div>
+{% endfor %}
+
