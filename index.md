@@ -101,19 +101,20 @@ Author: [Adilhyz](https://adilhyz.github.io)
 
 {% assign grouped_shells = site.data.shells | group_by: "category" %}
 {% for group in grouped_shells %}
-  <h3 id="{{ group.name | slugify }}">{{ group.name }}</h3>
+  <h2 id="{{ group.name | slugify }}">{{ group.name }}</h2>
   <div class="shell-container">
     {% for shell in group.items %}
       <div class="shell-card">
-        <a href="{{ shell.image }}"><img src="{{ shell.image }}" alt="{{ shell.name }}"></a>
         <h2>{{ shell.name }}</h2>
+        <a href="{{ shell.image }}"><img src="{{ shell.image }}" alt="{{ shell.name }}"></a>
         <div class="info">
           <p class="size">Size: {{ shell.size }}</p>
           <p>Version: {{ shell.version }}</p>
-          {% if shell.name == "Alfa v3 Shell" %}
+        {% if shell.name == "Alfa v3 Shell" %}
           <p>User/Password: {{ shell.password }}</p>
-          {% endif %}
+        {% else %}
           <p>Password: {{ shell.password }}</p>
+        {% endif %}
         </div>
         <a href="{{ shell.download }}">Download</a>
         <a href="{{ shell.raw }}">Raw &gt;</a>
