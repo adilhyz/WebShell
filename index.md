@@ -28,14 +28,14 @@ Author: [Adilhyz](https://adilhyz.github.io)
 <style>
   .shell-container {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
-    gap: 20px;
-    padding: 20px;
+    grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+    gap: 1.5rem;
+    padding: 1rem;
   }
 
   .shell-card {
-    background: #111;
-    border: 1px solid #0f0;
+    background-color: #1e1e1e;
+    border: 1px solid #55aa4e;
     border-radius: 8px;
     box-shadow: 0 4px 10px rgba(181, 232, 83, 0.2);
     overflow: hidden;
@@ -50,7 +50,7 @@ Author: [Adilhyz](https://adilhyz.github.io)
 
   .shell-card h2 {
     margin: 10px;
-    color: #0f0;
+    color: #55aa4e;
   }
 
   .shell-card .info {
@@ -61,15 +61,22 @@ Author: [Adilhyz](https://adilhyz.github.io)
 
   .shell-card a {
     margin: 0 10px 10px 10px;
-    color: #0f0;
+    color: #55aa4e;
     text-decoration: none;
   }
 
-    .shell-card a:active a::hover {
-    margin: 0 10px 10px 10px;
-    color: #fff;
-    text-decoration: none;
+.shell-card a:hover,
+.shell-card a:active {
+  color: #ffffff;
+  text-decoration: underline;
+}
+
+@media (max-width: 768px) {
+  .grid {
+    grid-template-columns: 1fr;
   }
+}
+
 </style>
 
 <div class="shell-container">
