@@ -1,6 +1,6 @@
 ---
 layout: default
-title: WebShell
+#title: WebShell
 ---
 
 # [WebShell](https://adilhyz.github.io/WebShell)
@@ -15,11 +15,11 @@ Author: [Adilhyz](https://adilhyz.github.io)
 
 ## **Category ⛱**
 
-&ensp;[<kbd> <br> Safety Backd00r <br> </kbd>](#safety-backd00r)&ensp;
-&ensp;[<kbd> <br> File Manager <br> </kbd>](#file-manager)&ensp;
-&ensp;[<kbd> <br>Mini Backd00r <br> </kbd>](#mini-backd00r)&ensp;
-&ensp;[<kbd> <br> Fully Backd00r <br> </kbd>](#fully-backd00r)&ensp;
-&ensp;[<kbd> <br> Bypass Backd00r <br> </kbd>](#bypass-backd00r)&ensp;
+[ Safety Backd00r ](#safety-backd00r)&ensp;
+[ File Manager ](#file-manager)&ensp;
+[ Mini Backd00r ](#mini-backd00r)&ensp;
+[ Fully Backd00r ](#fully-backd00r)&ensp;
+[ Bypass Backd00r ](#bypass-backd00r)&ensp;
 
 <br><br><br>
 
@@ -37,7 +37,7 @@ Author: [Adilhyz](https://adilhyz.github.io)
     background: #111;
     border: 1px solid #0f0;
     border-radius: 8px;
-    box-shadow: 0 4px 10px rgba(0, 255, 0, 0.2);
+    box-shadow: 0 4px 10px rgba(181, 232, 83, 0.2);
     overflow: hidden;
     display: flex;
     flex-direction: column;
@@ -64,6 +64,12 @@ Author: [Adilhyz](https://adilhyz.github.io)
     color: #0f0;
     text-decoration: none;
   }
+
+    .shell-card a:active a::hover {
+    margin: 0 10px 10px 10px;
+    color: #fff;
+    text-decoration: none;
+  }
 </style>
 
 <div class="shell-container">
@@ -72,9 +78,9 @@ Author: [Adilhyz](https://adilhyz.github.io)
     <img src="{{ shell.image }}" alt="{{ shell.name }}">
     <h2>{{ shell.name }}</h2>
     <div class="info">
-      <p>{{ shell.size }}</p>
-      <p>Password: {{ shell.password }}</p>
+      <p>Size: {{ shell.size }}</p>
       <p>Version: {{ shell.version }}</p>
+      <p>User/Password: {{ shell.password }}</p>
     </div>
     <a href="{{ shell.download }}">Download</a>
     <a href="{{ shell.raw }}">Raw &gt;</a>
