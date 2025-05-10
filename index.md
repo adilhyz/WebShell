@@ -28,7 +28,7 @@ Author: [Adilhyz](https://adilhyz.github.io)
 <style>
   .shell-container {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
     gap: 1.5rem;
     padding: 1rem;
   }
@@ -41,6 +41,14 @@ Author: [Adilhyz](https://adilhyz.github.io)
     overflow: hidden;
     display: flex;
     flex-direction: column;
+  }
+
+  .shell-card:hover,
+  .shell-card:active {
+    background-color:rgba(30, 30, 30, 0.67);
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    box-shadow: 0 4px 10px rgba(204, 204, 204, 0.5);
   }
 
   .shell-card img {
@@ -67,7 +75,7 @@ Author: [Adilhyz](https://adilhyz.github.io)
 
 .shell-card a:hover,
 .shell-card a:active {
-  color: #ffffff;
+  color: #ccc;
   text-decoration: underline;
 }
 
@@ -87,7 +95,10 @@ Author: [Adilhyz](https://adilhyz.github.io)
     <div class="info">
       <p>Size: {{ shell.size }}</p>
       <p>Version: {{ shell.version }}</p>
+      {% if forloop.first %}
       <p>User/Password: {{ shell.password }}</p>
+      {% endif %}
+      <p>Password: {{ shell.password }}</p>
     </div>
     <a href="{{ shell.download }}">Download</a>
     <a href="{{ shell.raw }}">Raw &gt;</a>

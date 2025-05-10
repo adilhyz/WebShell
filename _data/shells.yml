@@ -29,12 +29,3 @@
   version: "-"
   download: "https://adilhyz.github.io/WebShell/PHP/cantix1337.php"
   raw: "https://raw.githubusercontent.com/adilhyz/WebShell/master/PHP/cantix1337.php"
-
-- name: "RC Shell"
-  image: "https://adilhyz.github.io/WebShell/preview/4RC_view.webp"
-  size: "20kb"
-  password: "-"
-  version: "3.0"
-  download: "https://adilhyz.github.io/WebShell/PHP/FM/4RC.php"
-  raw: "https://raw.githubusercontent.com/adilhyz/WebShell/master/PHP/FM/4RC.php"
-  
