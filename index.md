@@ -28,7 +28,7 @@ Author: [Adilhyz](https://adilhyz.github.io)
 <style>
   .shell-container {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    grid-template-columns: repeat(auto-fit, minmax(500px, 1fr));
     gap: 20px;
     padding: 20px;
   }
