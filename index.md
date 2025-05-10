@@ -55,6 +55,10 @@ Author: [Adilhyz](https://adilhyz.github.io)
     cursor: zoom-in;
   }
 
+  .shell-card .name {
+    text-align: center;
+  }
+
   .shell-card h2 {
     margin: 10px;
     color: #55aa4e;
@@ -99,13 +103,13 @@ Author: [Adilhyz](https://adilhyz.github.io)
 </style>
 
 
-{% assign grouped_shells = site.data.shells | group_by: "category" %}
-{% for group in grouped_shells %}
-  <h2 id="{{ group.name | slugify }}">{{ group.name }}</h2>
+{% assign grouped = site.data.shells | group_by: "category" %}
+{% for cat in grouped %}
+  <h2 id="{{ cat.name | slugify }}">{{ cat.name }}</h2>
   <div class="shell-container">
-    {% for shell in group.items %}
+    {% for shell in cat.items %}
       <div class="shell-card">
-        <h2>{{ shell.name }}</h2>
+        <h2 class="name">{{ shell.name }}</h2>
         <a href="{{ shell.image }}"><img src="{{ shell.image }}" alt="{{ shell.name }}"></a>
         <div class="info">
           <p class="size">Size: {{ shell.size }}</p>
