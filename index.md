@@ -101,7 +101,7 @@ Author: [Adilhyz](https://adilhyz.github.io)
 
 {% assign grouped_shells = site.data.shells | group_by: "category" %}
 {% for group in grouped_shells %}
-  <h2>{{ group.name }}</h2>
+  <h3 id="{{ group.name | slugify }}">{{ group.name }}</h3>
   <div class="shell-container">
     {% for shell in group.items %}
       <div class="shell-card">
@@ -110,6 +110,9 @@ Author: [Adilhyz](https://adilhyz.github.io)
         <div class="info">
           <p class="size">Size: {{ shell.size }}</p>
           <p>Version: {{ shell.version }}</p>
+          {% if shell.name == "Alfa v3 Shell" %}
+          <p>User/Password: {{ shell.password }}</p>
+          {% endif %}
           <p>Password: {{ shell.password }}</p>
         </div>
         <a href="{{ shell.download }}">Download</a>
@@ -118,4 +121,3 @@ Author: [Adilhyz](https://adilhyz.github.io)
     {% endfor %}
   </div>
 {% endfor %}
-
