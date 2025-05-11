@@ -13,6 +13,8 @@ This is just for `learning` purpose only, I am not responsible if there is any m
 
 Author: [Adilhyz](https://adilhyz.github.io)
 
+<div id="top">
+
 ## **Category ⛱**
 
 [ Safety Backd00r ](#safety-backd00r)&ensp;
@@ -20,6 +22,22 @@ Author: [Adilhyz](https://adilhyz.github.io)
 [ Mini Backd00r ](#mini-backd00r)&ensp;
 [ Fully Backd00r ](#fully-backd00r)&ensp;
 [ Bypass Backd00r ](#bypass-backd00r)&ensp;
+
+</div>
+
+<a href="#top" id="toTopBtn" style="
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  background: #1e1e1e;
+  color: #55aa4e;
+  padding: 8px 14px;
+  border-radius: 8px;
+  font-weight: bold;
+  text-decoration: none;
+  display: none;
+  z-index: 999;
+">↑</a>
 
 <style>
   .shell-container {
@@ -128,4 +146,11 @@ Author: [Adilhyz](https://adilhyz.github.io)
     {% endfor %}
   </div>
 {% endfor %}
+
+<script>
+  const btn = document.getElementById('toTopBtn');
+  window.onscroll = () => {
+    btn.style.display = (window.scrollY > 300) ? 'block' : 'none';
+  };
+</script>
 
