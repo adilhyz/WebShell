@@ -116,7 +116,7 @@ Author: [Adilhyz](https://adilhyz.github.io)
           <p>Version: {{ shell.version }}</p>
         {% if shell.name == "Alfa v3 Shell" %}
           <p>User/Password: {{ shell.password }}</p>
-        {% elseif shell.name == "Ipt Mini Shell" %}
+        {% else if shell.name == "Ipt Mini Shell" %}
           <p>User/Password: {{ shell.password }}</p>
         {% else %}
           <p>Password: {{ shell.password }}</p>
