@@ -13,7 +13,7 @@ This is just for `learning` purpose only, I am not responsible if there is any m
 
 Author: [Adilhyz](https://adilhyz.github.io)
 
-<div id="top">
+<a id="top"></a>
 
 
 ## **Category ⛱**
@@ -24,103 +24,7 @@ Author: [Adilhyz](https://adilhyz.github.io)
 [ Fully Backd00r ](#fully-backd00r)&ensp;
 [ Bypass Backd00r ](#bypass-backd00r)&ensp;
 
-
-</div>
-
-<a href="#top" id="toTopBtn" style="
-  position: fixed;
-  bottom: 20px;
-  right: 20px;
-  background: #1e1e1e;
-  color: #55aa4e;
-  padding: 8px 14px;
-  border-radius: 8px;
-  font-weight: bold;
-  text-decoration: none;
-  display: none;
-  z-index: 999;
-">↑</a>
-
-<style>
-  .shell-container {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-    gap: 1.5rem;
-    padding: 1rem;
-  }
-
-  .shell-card {
-    background-color: #1e1e1e;
-    border: 1px solid #55aa4e;
-    border-radius: 8px;
-    box-shadow: 0 4px 10px rgba(181, 232, 83, 0.2);
-    overflow: hidden;
-    display: flex;
-    flex-direction: column;
-  }
-
-  .shell-card:hover,
-  .shell-card:active {
-    background-color:rgba(30, 30, 30, 0.67);
-    border: 1px solid #ccc;
-    border-radius: 8px;
-    box-shadow: 0 4px 10px rgba(204, 204, 204, 0.5);
-  }
-
-  .shell-card img {
-    width: 100%;
-    height: auto;
-    object-fit: cover; /* Atau contain tergantung kebutuhan */
-    cursor: -webkit-zoom-in; 
-    cursor: zoom-in;
-  }
-
-  .name {
-    text-align: center;
-  }
-
-  .shell-card h2 {
-    margin: 10px;
-    color: #55aa4e;
-  }
-
-  .shell-card .info {
-    padding: 0 100px 10px 10px;
-    font-size: 14px;
-    color: #ccc;
-  }
-
-  .shell-card .info .size {
-    font-size: 14px;
-    font-weight: bold;
-    color: #636c72 ;
-  }
-
-  .shell-card a {
-    margin: 0 10px 10px 10px;
-    color: #55aa4e;
-    text-decoration: none;
-  }
-
-.shell-card a:hover,
-.shell-card a:active {
-  color: #ccc;
-  text-decoration: underline;
-}
-
-@media (max-width: 480px) {
-  .shell-container {
-    grid-template-columns: 1fr;
-  }
-}
-
-@media (max-width: 768px) {
-  .shell-container {
-    grid-template-columns: 1fr;
-  }
-}
-
-</style>
+<a href="#top" id="toTopBtn" class="toptop">↑</a>
 
 
 {% assign grouped = site.data.shells | group_by: "category" %}
@@ -148,11 +52,3 @@ Author: [Adilhyz](https://adilhyz.github.io)
     {% endfor %}
   </div>
 {% endfor %}
-
-<script>
-  const btn = document.getElementById('toTopBtn');
-  window.onscroll = () => {
-    btn.style.display = (window.scrollY > 300) ? 'block' : 'none';
-  };
-</script>
-
