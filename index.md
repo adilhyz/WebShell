@@ -114,13 +114,13 @@ Author: [Adilhyz](https://adilhyz.github.io)
         <div class="info">
           <p class="size">Size: {{ shell.size }}</p>
           <p>Version: {{ shell.version }}</p>
-        {% if shell.name == "Alfa v3 Shell" %}
-          <p>User/Password: {{ shell.password }}</p>
-        {% elsif shell.name == "Ipt Mini Shell" %}
-          <p>User/Password: {{ shell.password }}</p>
-        {% else %}
-          <p>Password: {{ shell.password }}</p>
-        {% endif %}
+          {% if shell.name == "Alfa Shell" %}
+            <p>User/Password: {{ shell.password }}</p>
+          {% elsif shell.name == "Ipt Mini Shell" %}
+            <p>User/Password: {{ shell.password }}</p>
+          {% else %}
+            <p>Password: {{ shell.password }}</p>
+          {% endif %}
         </div>
         <a href="{{ shell.download }}">Download</a>
         <a href="{{ shell.raw }}">Raw &gt;</a>
