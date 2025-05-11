@@ -18,11 +18,11 @@ Author: [Adilhyz](https://adilhyz.github.io)
 
 ## **Category ⛱**
 
-[ Safety Backd00r ](#safety-backd00r)&ensp;
-[ File Manager ](#file-manager)&ensp;
-[ Mini Backd00r ](#mini-backd00r)&ensp;
-[ Fully Backd00r ](#fully-backd00r)&ensp;
-[ Bypass Backd00r ](#bypass-backd00r)&ensp;
+[ `Safety Backd00r` ](#safety-backd00r)&ensp;
+[ `File Manager` ](#file-manager)&ensp;
+[ `Mini Backd00r` ](#mini-backd00r)&ensp;
+[ `Fully Backd00r` ](#fully-backd00r)&ensp;
+[ `Bypass Backd00r` ](#bypass-backd00r)&ensp;
 
 <a href="#top" id="toTopBtn" class="toptop">↑</a>
 
