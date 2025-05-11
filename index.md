@@ -55,7 +55,7 @@ Author: [Adilhyz](https://adilhyz.github.io)
     cursor: zoom-in;
   }
 
-  .shell-card .name {
+  .name {
     text-align: center;
   }
 
@@ -105,7 +105,7 @@ Author: [Adilhyz](https://adilhyz.github.io)
 
 {% assign grouped = site.data.shells | group_by: "category" %}
 {% for cat in grouped %}
-  <h2 id="{{ cat.name | slugify }}">{{ cat.name }}</h2>
+  <h2 class="name" id="{{ cat.name | slugify }}">{{ cat.name }}</h2>
   <div class="shell-container">
     {% for shell in cat.items %}
       <div class="shell-card">
@@ -115,6 +115,8 @@ Author: [Adilhyz](https://adilhyz.github.io)
           <p class="size">Size: {{ shell.size }}</p>
           <p>Version: {{ shell.version }}</p>
         {% if shell.name == "Alfa v3 Shell" %}
+          <p>User/Password: {{ shell.password }}</p>
+        {% elseif shell.name == "Ipt Mini Shell" %}
           <p>User/Password: {{ shell.password }}</p>
         {% else %}
           <p>Password: {{ shell.password }}</p>
@@ -126,3 +128,4 @@ Author: [Adilhyz](https://adilhyz.github.io)
     {% endfor %}
   </div>
 {% endfor %}
+

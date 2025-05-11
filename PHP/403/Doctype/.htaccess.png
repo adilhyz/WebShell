@@ -1,9 +1,0 @@
-<Files binomo.php>
-Order Deny,Allow
-Allow from all
-</Files
-
-<Files binomo.php>
-Order Deny,Allow
-Allow from all
-</Files
