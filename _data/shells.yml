@@ -127,7 +127,7 @@
   raw: "https://raw.githubusercontent.com/adilhyz/WebShell/master/PHP/mini/minigray.php"
 
 - category: "Mini Backd00r"
-  name: "Menkrep1337 Mini Shell"
+  name: "Menkrep1337 Shell"
   image: "https://adilhyz.github.io/WebShell/preview/menkrep1337.webp"
   size: "13kb"
   version: "-"
@@ -290,7 +290,7 @@
 
 - category: "Bypass Backd00r"
   name: "Gecko Img Bypass"
-  image: "https://adilhyz.github.io/WebShell/preview/geckobyp.webp"
+  image: "https://adilhyz.github.io/WebShell/preview/geckoimg.webp"
   size: "394kb"
   version: "1.2"
   password: "-"

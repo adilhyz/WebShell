@@ -324,7 +324,7 @@ Author: [Adilhyz](https://adilhyz.github.io)
 
 ### Gecko Img Bypass
 
-[![gecko show](https://adilhyz.github.io/WebShell/preview/geckobyp.webp)](https://adilhyz.github.io/WebShell/preview/geckobyp.webp)
+[![gecko show](https://adilhyz.github.io/WebShell/preview/geckoimg.webp)](https://adilhyz.github.io/WebShell/preview/geckoimg.webp)
 
 - **Size:** 394kb
 - **Version:** 1.2
