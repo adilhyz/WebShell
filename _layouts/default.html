@@ -43,6 +43,15 @@
     window.onscroll = () => {
         btn.style.display = (window.scrollY > 300) ? 'block' : 'none';
     };
+
+    btn.addEventListener('click', (e) => {
+        e.preventDefault();
+        window.scrollTo({
+            top: 0,
+            behavior: 'smooth'
+        });
+    });
 </script>
+
 
 </html>
