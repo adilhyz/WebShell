@@ -3,28 +3,6 @@ layout: default
 title: WebShell
 ---
 
-<style>
-
-.text { 
-  color: #FF5151;
-  text-decoration: none;
-  display: inline;
-  background-image: linear-gradient(to bottom, transparent 20%, currentColor 17%);
-  background-position: 0 100%;
-  transition: background-size 0.5s ease-in-out 0.2s;
-  background-repeat: no-repeat;
-  background-size: 0% 4px;
-}
-
-  .text:hover,
-  .text:focus {
-    color: #FF5151;
-    text-decoration: none;
-    background-size: 100% 4px;
-    transition-delay: 0s;
-  }
-
-</style>
 <!-- # [WebShell](https://adilhyz.github.io/WebShell) -->
 
 <a id="top"></a>
