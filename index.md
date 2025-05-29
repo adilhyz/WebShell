@@ -4,61 +4,23 @@ title: WebShell
 ---
 
 <style>
-.disclaimer {
-  padding: 0;
-  margin: 0;
-  box-sizing: border-box;
-}
-.disclaimer {
-  cursor: pointer;
-  position: relative;
-  display: inline-block;
-  font-size: 19px;
-  background-clip: text;
-  -webkit-background-clip: text;
-  color: #0e0e0e;
-  background-repeat: no-repeat;
-  transition: background 0.2s ease-out;
-}
-
-.disclaimer:hover {
-  background-position: 0 11px;
-}
-
-.disclaimer {
-  position: relative;
-}
-
-.disclaimer:before {
-  content: "";
-  position: absolute;
-  left: 0;
-  right: 0;
-  height: 5px;
-  background:rgba(255, 0, 0, 0.54);
-  bottom: 6px;
-  transition: all 0.2s ease-out;
-}
-
-.disclaimer:hover:before {
-  transform: translateY(6px)
-}
-
 
 .text { 
   color: #FF5151;
   text-decoration: none;
   display: inline;
   background-image: linear-gradient(to bottom, transparent 20%, currentColor 17%);
-  background-position: 1 1;
+  background-position: 0 100%;
   transition: background-size 0.5s ease-in-out 0.2s;
   background-repeat: no-repeat;
-  background-size: 0% 6px;
+  background-size: 0% 4px;
 }
 
   .text:hover,
   .text:focus {
-    background-size: 100% 2px;
+    color: #FF5151;
+    text-decoration: none;
+    background-size: 100% 4px;
     transition-delay: 0s;
   }
 
@@ -71,7 +33,7 @@ title: WebShell
 
 Shell Backdoor, could be useful for the needs of
 
-<span class="disclaimer"> Disclaimer </span>
+<span> Disclaimer </span>
  
 <p class="text">This is just collection for educational purposes only. Use it responsibly and only on systems for which you have explicit permission. Unauthorized use of this tool is illegal and unethical, Author not responsible if there is any mess.</p>
 
