@@ -4,7 +4,7 @@
 
 Shell Backdoor, could be useful for the needs of
 
-This is just for ```learning``` purpose only, I am not responsible if there is any mess
+This is just collection for educational purposes only. Use it responsibly and only on systems for which you have explicit permission. Unauthorized use of this tool is illegal and unethical, Author not responsible if there is any mess.
 
 Author: [Adilhyz](https://adilhyz.github.io)
 
