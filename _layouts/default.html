@@ -15,26 +15,13 @@
 <body>
 
     <header>
-        {{/*  <div class="container">
-            <a id="a-title" href="{{ '/' | relative_url }}">
-                <h1>{{ site.title | default: site.github.repository_name }}</h1>
-            </a>
-            <h2>{{ site.description | default: site.github.project_tagline }}</h2>
-
-            <section id="downloads">
-                {% if site.show_downloads %}
-                <a href="{{ site.github.zip_url }}" class="btn">Download as .zip</a>
-                <a href="{{ site.github.tar_url }}" class="btn">Download as .tar.gz</a>
-                {% endif %}
-                <a href="{{ site.github.repository_url }}" class="btn btn-github"><span class="icon"></span>View on
-                    GitHub</a>
-            </section>
-        </div>  */}}
         <nav class="navbar">
             <div class="container">
                 <ul class="nav-links">
-                <a id="a-title" href="{{ '/' | relative_url }}">{{ site.title | default: site.github.repository_name }}</a>
-                <span> {{ site.description | default: site.github.project_tagline }}</span>
+                <a href="{{ site.github.repository_url }}" class="btn btn-github"><span class="icon"></span>View on
+                    GitHub</a>
+                <a href="{{ site.github.repository_url }}" class="btn btn-github"><span class="icon"></span>View on
+                    GitHub</a>
                 <li><a href="{{ '/' | relative_url }}">Home</a></li>
                 <li><a href="https://adilhyz.github.io/">Blog</a></li>
                 <li><a href="{{ site.github.repository_url }}" target="_blank">GitHub</a></li>
