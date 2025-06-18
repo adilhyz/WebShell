@@ -287,6 +287,15 @@ Author: [Adilhyz](https://adilhyz.github.io)
 - **Password:** -
 - [**Download**](https://adilhyz.github.io/WebShell/PHP/me/ayanami.php) | [**Raw**](https://raw.githubusercontent.com/adilhyz/WebShell/master/PHP/me/ayanami.php)
 
+### VOidGate Shell
+
+[![VoidGate show](https://adilhyz.github.io/WebShell/preview/void.webp)](https://adilhyz.github.io/WebShell/preview/void.webp)
+
+- **Size:** 30kb
+- **Version:** -
+- **Password:** -
+- [**Download**](https://adilhyz.github.io/WebShell/PHP/void.php) | [**Raw**](https://raw.githubusercontent.com/adilhyz/WebShell/master/PHP/void.php)
+
 ### RBBD Shell
 
 [![RBBD show](https://adilhyz.github.io/WebShell/preview/rbbd.webp)](https://adilhyz.github.io/WebShell/preview/rbbd.webp)
@@ -387,6 +396,15 @@ Author: [Adilhyz](https://adilhyz.github.io)
 - **Version:** -
 - **Password:** -
 - [**Download**](https://adilhyz.github.io/WebShell/PHP/403/yon03.php) | [**Raw**](https://raw.githubusercontent.com/adilhyz/WebShell/master/PHP/403/yon03.php)
+
+### Yon3zu Bypass Shell
+
+[![Yami show](https://adilhyz.github.io/WebShell/preview/yami.webp)](https://adilhyz.github.io/WebShell/preview/yami.webp)
+
+- **Size:** 24kb
+- **Version:** -
+- **Password:** -
+- [**Download**](https://adilhyz.github.io/WebShell/PHP/403/yami.php) | [**Raw**](https://raw.githubusercontent.com/adilhyz/WebShell/master/PHP/403/yami.php)
 
 ### Zsec Mimetype Bypass Shell
 

